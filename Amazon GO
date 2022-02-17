@@ -1,1 +1,13 @@
+This is the code that is written to detect the objects and moments in a video and an image...
+(This is not the exact or actual code that is being used by Amazon as it has it's own process) 
+code link:
 https://colab.research.google.com/drive/1SPW12qancZyc09gFchC8sJjkInEJagKS?usp=sharing#scrollTo=IP0jKsdeQ0iE
+
+Amazon has been opening physical Amazon Go convenience stores and Amazon Go Grocery stores across the US and it has now launched a UK store, branded Amazon Fresh.
+
+All have one thing in common - unlike most shops, there are no registers or cashiers. You walk in, pick out what you want, and walk out.
+Amazon calls it a 'just walk out' shopping experience.
+Amazon Go's checkout-free shopping experience is made possible by the same types of technologies used in self-driving cars and they are:
+          1.    Computer Vision
+          2.    Sensor Fusion
+          3.    Deep Learning
